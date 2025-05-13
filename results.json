@@ -1,0 +1,9 @@
+{
+  "best_params": {
+    "lambda_under": 0.01,
+    "lambda_over": 0.01,
+    "theta_queue": 0.0001
+  },
+  "optimal_total_cost": 1113715.0,
+  "optimal_avg_fill_price": 222.743
+}
